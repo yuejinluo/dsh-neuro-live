@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.dsh/
+.idea/
+.vscode/
+*.zip
+*.tmp
+preview/dom.html
